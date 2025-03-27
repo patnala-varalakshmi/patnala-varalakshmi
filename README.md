@@ -1,6 +1,6 @@
 # Hi, I'm  Varalakshmi Patnala [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varalakshmipatnala/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Ruby+on+Rails+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&width=435&lines=Senior+Ruby+on+Rails+Developer)](https://git.io/typing-svg)
 
 Ruby on Rails Developer with 6+ years of experience in building high-quality web applications. Proficient in Python (FastAPI), ReactJS, PostgreSQL, MongoDB, Elixir, RSpec, GraphQL, and Agile methodologies. 
 
