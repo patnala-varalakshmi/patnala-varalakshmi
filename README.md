@@ -21,7 +21,7 @@ Quick learner, adaptable to both team and individual work environments. Passiona
 
 ## What I’m Working on Right Now 🔥
 
-- AWS Cloud Practitioner Certification 
+- AWS Certified Solutions Architect
 
 To know more about me professionally, You can connect me at - [LinkedIn](https://www.linkedin.com/in/varalakshmipatnala)
 
