@@ -23,5 +23,5 @@ Quick learner, adaptable to both team and individual work environments. Passiona
 
 - AWS Solutions Architect Certification
 
-To know more about me professionally, You can connect me at - [LinkedIn](https://www.linkedin.com/in/varalakshmipatnala)
+To know more about me professionally, You can connect to me at - [LinkedIn](https://www.linkedin.com/in/varalakshmipatnala)
 
