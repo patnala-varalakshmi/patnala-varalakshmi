@@ -5,7 +5,7 @@ A Ruby on Rails Developer with 6+ years of experience in building high-quality w
 Skilled in analyzing requirements, implementing solutions, and optimizing performance. Strong debugging, and communication skills with the ability to collaborate effectively in cross-functional teams. 
 Quick learner, adaptable to both team and individual work environments. Passionate about continuous learning and building impactful web applications that drive results.
 
-## I Worked As..
+## I Worked As.. 👨‍💻
 
 - Technical Analyst at Seneca Global, Hyderabad, India (February 2023 - August 2024)
 - Lead Engineer on Nitor Infotech, Pune, India (June 2021 - February 2023)
@@ -17,10 +17,11 @@ Quick learner, adaptable to both team and individual work environments. Passiona
 - Ruby on Rails
 - Python
 - ReactJS
+- PostgreSQL
 
-##
+## What I’m Working on Right Now 🔥
 
-To know more about me professionally, You can connect me at - [LinkedIn]
+- AWS Cloud Practitioner Certification 
 
-[LinkedIn]: https://www.linkedin.com/in/varalakshmipatnala
+To know more about me professionally, You can connect me at - [LinkedIn](https://www.linkedin.com/in/varalakshmipatnala)
 
