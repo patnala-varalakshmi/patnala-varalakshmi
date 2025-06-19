@@ -20,7 +20,7 @@ Quick learner, adaptable to both team and individual work environments. Passiona
 - PostgreSQL
 
 ## What I’m Working on Right Now 🔥
-Azure Fundamentals (AZ-900) Certification
+Microsoft Certified: Azure Developer Associate
 
 To know more about me professionally, You can connect to me at - [LinkedIn](https://www.linkedin.com/in/varalakshmipatnala)
 
